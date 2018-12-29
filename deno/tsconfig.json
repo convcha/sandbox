@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "lib": ["es2015"],
+    "paths": {
+      "deno": ["deno/js/deno"]
+    }
+  }
+}
